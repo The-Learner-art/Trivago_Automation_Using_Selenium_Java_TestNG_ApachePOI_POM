@@ -38,7 +38,7 @@ Based on the project hierarchy:
 ## ⚙️ How to Run
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+   git clone https://github.com/The-Learner-art/Trivago_Automation_Using_Selenium_Java_TestNG_ApachePOI_POM.git
 2. **Prepare Test Data:**
    Open test-data/RunSet.xlsx and add your desired cities and dates (format: yyyy-MM-dd).
 3. **Execute**:
